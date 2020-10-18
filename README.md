@@ -1,2 +1,2 @@
 # Community-Repair-Cafe'
-How to set up a community repair cafe'?
+How to set up a community repair Cafe'?
