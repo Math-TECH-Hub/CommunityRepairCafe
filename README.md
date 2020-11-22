@@ -24,6 +24,6 @@ Steps in repairing devices
   dessamble the device
   fix the problem
   test the device to see whether the problem is fixed
-  if problem not solve, do research about the particular problem
+  If problem not solve, do research about the particular problem
   
 
