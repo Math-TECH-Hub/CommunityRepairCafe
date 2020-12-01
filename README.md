@@ -18,3 +18,8 @@ gather your tools
 find a working space 
 and inform the comunity about the services offered
 
+Management of Community Repair Cafe.
+-Documentation
+-Accountablility
+-Availability
+-Advertisement
