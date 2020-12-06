@@ -26,45 +26,6 @@
   test the device to see whether the problem is fixed
   If problem not solve, do research about the particular problem
   
- ##  MATERIALS TO MASTER.
-
- 1.transistors
-   
-   These are semiconductor devices used to amplify or
-   
-    Switch electronic signals and electronic power.
-     
-    TYPES
-   
- 1.bipolar
-
- 2.NPN
-  
- 3.field effect transistor
-  
- 4.JFET
-   
- 5.MOSFET
-  
- 6.Unijunction
-  
- 7.power transistors
-  
- 8.switch etc.
- 
- **Note: We shall basically look at bipolar transistors,
- because most devices brought for cafe repair   are using bipolar transistors.
-→ Bipolar:
-  Has terminals labelled 
- -base
- -collector
- -emitter**
-
-
-Feel free to add for easier understanding such
-that during the cafe repair it doesn't became
-abig challenge.
-
 ## Management of Community Repair Cafe.
 -Documentation
 -Accountablility
