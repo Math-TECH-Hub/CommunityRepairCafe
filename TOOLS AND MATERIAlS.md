@@ -7,13 +7,13 @@ TOOLS.
 - copper solder cleaner.
 - multimeter
 - clip board.
-- radio set.
-- small combination padlock.
+- CR 2032/3v batteries.
+- magnifying lens.
 - third hand.
 - max 520 back pack system.
 - multi battery charger.
 - notebook sleeve.
-- USB flash(32GB).
+- soldering paste/grease.
 - work place textile
 - marker .
  
