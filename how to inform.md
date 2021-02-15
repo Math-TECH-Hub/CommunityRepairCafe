@@ -1,0 +1,1 @@
+# How to to inform the people about the repair cafe
