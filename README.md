@@ -19,6 +19,10 @@ The best way to find put how something works is to take it apart.
 Earth has limited resources. Eventually we will run our.
 The best way to be efficient is to reuse what we already have.
 
+[More information](details-about-repair-cafe.md)
+
+-----
+
 ## How to's for a repair cafe
 
 * [how to start](how-to-start.md)
@@ -26,6 +30,14 @@ The best way to be efficient is to reuse what we already have.
 * [how to inform](how-to-inform.md)
 * [how to run](how-to-run.md)
 * [how to document](how-to-document.md)
+
+-----
+
+![help community member](images/help_community_member_rhino-camp.jpg)
+
+### Help Community Member
+
+-----
 
 ## Other Repair Cafe Projects
 
