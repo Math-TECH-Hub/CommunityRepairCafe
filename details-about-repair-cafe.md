@@ -35,7 +35,7 @@
 - test the device to see whether the problem is fixed
 - If problem not solve, do research about the particular problem
   
-##  MATERIALS TO MASTER.
+##  MATERIALS TO MASTER
 
 1. transistors
    These are semiconductor devices used to amplify or
