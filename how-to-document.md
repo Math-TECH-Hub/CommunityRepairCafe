@@ -15,6 +15,15 @@
   - GitHub
   - Wikifab
   - Social Media
+- Prepare a List to record som repair statistics:
+
+**Example**
+| Nr  | Item-name | problem to fix |could fix?| Comment |
+| --- | --------- | -------------- |--------- |-------- |
+|     |           |                |  yes/no  |         |
+|     |           |                |  yes/no  |         |
+|     |           |                |  yes/no  |         |
+|     |           |                |  yes/no  |         |
 
 
 Find some more impressions here:
