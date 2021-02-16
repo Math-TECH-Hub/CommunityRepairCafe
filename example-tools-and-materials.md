@@ -1,5 +1,9 @@
 ## Example Tools and Materials
 
+![Tool wall](images/tool-wall.jpg)
+
+tools well organized in December 2018 during the #ASKnet training at the Refugee CTEN information Rhino
+
 ## Tools
 
 - battery soldering iron.
