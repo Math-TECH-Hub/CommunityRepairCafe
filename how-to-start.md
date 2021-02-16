@@ -1,7 +1,5 @@
 # How to start up a repair cafe
 
-Few Tips for starting a Repair Cafe
-
 1. Visit a couple of established Repair Cafes. 
 2. Don’t get hung up on health and safety and insurance.
 3. Make sure repairers work within the limits of their skills and, if necessary, get help from other repairers.
