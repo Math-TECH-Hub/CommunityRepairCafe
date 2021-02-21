@@ -1,6 +1,6 @@
 # Community Repair Café
 
-A Community Repair Café is a youth led local initiative with a vision of helping the community through repairs of broken or in some way dysfunctional electrical or electronc devices (or other household items) to reduce waste and the expense of getting a new one. Not only does is help fix important things that people rely on in their everyday lives, it creates a social space for people to get together. 
+A Community Repair Café is a youth led local initiative with a vision of helping the community through repairs of broken or in some way dysfunctional electrical or electronic devices (or other household items) to reduce waste and the expense of getting a new one. Not only does is help fix important things that people rely on in their everyday lives, it creates a social space for people to get together. 
 
 ![community repair cafe](images/community-repair-cafe.jpg)
 
